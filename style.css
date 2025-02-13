@@ -1,9 +1,11 @@
 body {
     background-color:rgb(49, 49, 49)
 }
-header {
+h1 {
+    
     text-align: center;
     font-family: "Schoolbell", serif;
     font-weight: 400;
     font-style: bold;
 }
+
